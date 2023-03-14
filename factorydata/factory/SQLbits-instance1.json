@@ -1,0 +1,9 @@
+{
+	"name": "SQLbits-instance1",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aed038e4-bc34-4da7-a5c3-e6755eca3104",
+		"tenantId": "4adda90d-810f-42fc-852f-18ed6744d7b3"
+	}
+}
